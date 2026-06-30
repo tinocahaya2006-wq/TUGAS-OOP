@@ -223,7 +223,7 @@ Setiap class memiliki tanggung jawab yang berbeda sesuai fungsi masing-masing se
 
 **Nama** : Martinus Maiyen Cahaya Marut
 
-**NIM** : 2515101183
+**NIM** : 2515101076
 
 **Program Studi** : Ilmu Komputer
 
