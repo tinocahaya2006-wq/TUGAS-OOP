@@ -221,9 +221,9 @@ Setiap class memiliki tanggung jawab yang berbeda sesuai fungsi masing-masing se
 
 ## Author
 
-**Nama** : Yabes Paskah Sinaga
+**Nama** : Martinus Maiyen Cahaya Marut
 
-**NIM** : 2515101107
+**NIM** : 2515101183
 
 **Program Studi** : Ilmu Komputer
 
